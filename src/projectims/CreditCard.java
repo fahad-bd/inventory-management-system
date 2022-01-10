@@ -1,15 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package projectims;
 
 import sun.security.util.Password;
 
 /**
  *
- * @author Admin
+ * @author Fahad Ahammed
  */
 public class CreditCard extends Payment{
     private String creditNumber;
